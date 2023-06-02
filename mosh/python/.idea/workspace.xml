@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b3f53f-2e7f-4fed-978c-3dd0a1cc9ff5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../data_analyst/matplotlib_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_analyst/matplotlib_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../data_analyst/pandas_visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../data_analyst/pandas_visualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/contact_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/contact_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/snake_game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/weather_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/weather_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/youtube_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/not_done_yet/youtube_downloader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/project/face_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/project/face_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/pet_project/project/random_walk.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/project/random_walk.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../rmotr/data-cleaning-rmotr-freecodecamp/4 - More Visualizations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../rmotr/data-cleaning-rmotr-freecodecamp/4 - More Visualizations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pet_project/project/hand-gesture-regconition/hand_gesture_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../python/pet_project/project/hand-gesture-regconition/hand_gesture_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/pet_project/web_scraping.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +22,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Viktor/Desktop/test/test_k24"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

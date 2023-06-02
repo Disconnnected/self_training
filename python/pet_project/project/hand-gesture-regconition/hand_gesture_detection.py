@@ -4,7 +4,9 @@ import cv2
 import numpy as np
 import mediapipe as mp
 import tensorflow as tf
-from tensorflow.keras.models import load_model
+from tensorflow import keras
+from keras.models import Sequential, load_model
+# from tensorflow.keras.models import load_model
 
 # initialize mediapipe
 mpHands = mp.solutions.hands
@@ -23,6 +25,7 @@ print(classNames)
 
 # Initialize the webcam
 cap = cv2.VideoCapture(0)
+print(cap)
 
 while True:
     # Read each frame from the webcam
