@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/pet_project/project/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/pet_project/project/HandMovementTracking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/pet_project/project/Unified-Gesture-and-Fingertip-Detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/Face_reconigize" vcs="Git" />
   </component>
 </project>
